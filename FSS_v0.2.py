@@ -1,4 +1,4 @@
-# File/String Email Extractor v0.2
+#   File/String Email Extractor v0.2
 
 #   Currently only takes 1 or 2 before exiting. Would later
 #   make it so that any # thats != 1 or != 2 will loop back to
